@@ -5,3 +5,4 @@ jobs:
   continue-on-error: false
   pytest: ""
   snyk: ""
+  flake8: ""
